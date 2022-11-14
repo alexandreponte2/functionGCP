@@ -1,0 +1,8 @@
+# Function dependencies, for example:
+# package>=version
+google-api-core==2.10.0
+google-auth==2.11.0
+google-cloud==0.34.0
+google-cloud-secret-manager==2.12.4
+googleapis-common-protos==1.56.4
+grpc-google-iam-v1==0.12.4
